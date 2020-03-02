@@ -16,6 +16,3 @@ ipython = "*"
 jupyter = "*"
 scikit-learn = "*"
 nltk = "*"
-
-[requires]
-python_version = "3.8"
